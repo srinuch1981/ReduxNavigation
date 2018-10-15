@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ReduxNavigation</string>
+    <string name="code_push_key">4BwudZGv3H9zli0hJGDhIomqN5Fw6f649b19-1890-4f5d-bc47-204ddce4effd</string>
+    <!--<string name="code_push_key">xKZaAjo9_JEBAIdnZp-8_HpIXIIZHkUWAiFUz</string>-->
+    <string name="code_push_sign_key">-----BEGIN PUBLIC KEY-----
+        MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvqoEHWZ2sEs+Z0WH54t6
+        d+w01aQJvA2XedxqSfF1GmlXtwzONjHEpvDGdAQuQbiSsm8YCfYtgy/11QCt03Gu
+        Gv7JaFRYWfPcTg5rNz4gnI63fvQwIYIySRpLjeY8pj+8SquvG/S5tEQxLmNE305J
+        82aJma2iCoAIFOR4K5OWCUnS5kDQPb3+Q8h27DCE0/wvzm+bkKaBwMvL2PYBq1Bk
+        eaU1nr65FH9hHJ/p2VlVDDJub8AYefocvTM69BgIJMCnHdRaGbybozkzQaeYd3Vu
+        WXCMf6R+PxBt+jb3X8CC9QjY184FkdX+Xpo56xl6krkedNYbN1wwConooKouu2dT
+        WwIDAQAB
+        -----END PUBLIC KEY-----</string>
+</resources>
