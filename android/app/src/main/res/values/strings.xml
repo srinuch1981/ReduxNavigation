@@ -1,7 +1,6 @@
 <resources>
     <string name="app_name">ReduxNavigation</string>
     <string name="code_push_key">4BwudZGv3H9zli0hJGDhIomqN5Fw6f649b19-1890-4f5d-bc47-204ddce4effd</string>
-    <!--<string name="code_push_key">xKZaAjo9_JEBAIdnZp-8_HpIXIIZHkUWAiFUz</string>-->
     <string name="code_push_sign_key">-----BEGIN PUBLIC KEY-----
         MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvqoEHWZ2sEs+Z0WH54t6
         d+w01aQJvA2XedxqSfF1GmlXtwzONjHEpvDGdAQuQbiSsm8YCfYtgy/11QCt03Gu
